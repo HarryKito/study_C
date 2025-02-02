@@ -1,0 +1,8 @@
+# ninja log v5
+3	136	7602014688000006	build.ninja	bca96dcd4180aed8
+0	265	7602011466959701	CMakeFiles/study_c.dir/stdio/main.cpp.obj	f6e440feeefba477
+266	365	7602011467929723	study_c.exe	4f6ae24d6f269cec
+1	182	7602016007911811	CMakeFiles/study_c.dir/basicIO/main.cpp.obj	76224a59d1e728b2
+182	354	7602016009601809	study_c.exe	fe5dcc161d6eac11
+1	53	7602016146494677	CMakeFiles/study_c.dir/basicIO/main.cpp.obj	76224a59d1e728b2
+53	121	7602016147154669	study_c.exe	fe5dcc161d6eac11
