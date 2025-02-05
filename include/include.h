@@ -4,6 +4,6 @@
 
 #ifndef STUDY_C_INCLUDE_H
 #define STUDY_C_INCLUDE_H
-int test_include()
-{ return true; }
+#define test_include 1
+
 #endif //STUDY_C_INCLUDE_H

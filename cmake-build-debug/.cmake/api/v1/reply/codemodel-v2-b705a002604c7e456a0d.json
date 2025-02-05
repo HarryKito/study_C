@@ -6,10 +6,10 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.27"
+						"string" : "3.2"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "study_c::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-study_c-Debug-aa0c68bc6e8aebeb68da.json",
+					"jsonFile" : "target-study_c-Debug-70a26af2f1e58d63f6e2.json",
 					"name" : "study_c",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/study_c/cmake-build-debug",
-		"source" : "D:/study_c"
+		"build" : "/Users/jeonhyeonbae/Documents/development/C/CPP_Practice/study_C/cmake-build-debug",
+		"source" : "/Users/jeonhyeonbae/Documents/development/C/CPP_Practice/study_C"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 6
+		"minor" : 4
 	}
 }
