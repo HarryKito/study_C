@@ -21,3 +21,8 @@ my_project/
 │
 └── build/
 ```
+## build the project
+```sh
+cmake -S something -B build/something
+cmake --build build/something
+```
