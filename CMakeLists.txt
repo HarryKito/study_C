@@ -3,6 +3,9 @@ cmake_minimum_required(VERSION 3.2)
 # Project name
 project(study_c)
 
+add_subdirectory(basicIO)
+add_subdirectory(typeSize)
+
 # Set standard to C++17
 set(CMAKE_CXX_STANDARD 17)
 
